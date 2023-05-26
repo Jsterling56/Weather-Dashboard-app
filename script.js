@@ -1,5 +1,5 @@
 // global variables
-var apiKey = "";
+var apiKey = "1b18ce13c84e21faafb19c931bb29331";
 var savedSearches = [];
 
 // make list of previously searched cities
